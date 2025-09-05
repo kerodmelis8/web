@@ -1,0 +1,22 @@
+#countladel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: helvetica;
+}
+#btn{
+    text-align: center;
+}
+.btns{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: rgb(247, 243, 243);
+    background-color: rgb(8, 8, 26);
+    border-radius: 9px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.btns:hover{
+    background: white;
+    color: black;
+}
